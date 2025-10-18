@@ -5,6 +5,7 @@
 <p align="center">
 <img src="https://nkpremices.com/content/images/size/w1600/2021/08/mih10uhu1464fx1kr0by-1.jpg" alt="drawing" width="600"/>
 </p>
+Source of image: https://nkpremices.com/investigating-the-tmdb-movie-dataset/
 
 ##### Description: 
 This dataset contains information about movies, including variables such as movie titles, genres, release years, budgets, revenues, ratings, and popularity scores. It also includes metadata like production companies, countries, and languages.
@@ -25,6 +26,8 @@ https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report
 ## Dataset 3: Gym Members Exercise Dataset
 
 ![alt text](https://cdn.prod.website-files.com/63c856d889d2ff1bd85e9773/666235c43a60185b6d0deca7_gym.jpg)
+
+Source of image: https://nkpremices.com/investigating-the-tmdb-movie-dataset/
 ##### Description:
 This dataset provides detailed information about gym members’ exercise routines, physical attributes, and fitness metrics. It includes variables such as age, gender, height, weight, heart rate (resting, average, and maximum), workout duration, calories burned, workout type, fat percentage, water intake, workout frequency, experience level, and BMI. The data offers intresting insights into fitness patterns, workout performance, and health trends.
 
